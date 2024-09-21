@@ -1,5 +1,5 @@
 # Subte Linea B - Simulador de Estaciones
-Esta es una aplicación de escritorio desarrollada en Java, conectada a una base de datos MySQL utilizando mysqlconnector y XAMPP. El objetivo principal es permitir la navegación por las estaciones de la línea B del subte de la Ciudad de Buenos Aires. La aplicación cuenta con una interfaz gráfica simple con dos botones que permiten moverse entre las estaciones, detectando si hay una estación previa o siguiente disponible.
+Esta es una aplicación de escritorio desarrollada en Java, conectada a una base de datos MySQL utilizando mysqlconnector y XAMPP. El objetivo principal es permitir la navegación por las estaciones de la línea B del subte de la Ciudad de Buenos Aires. La aplicación cuenta con una interfaz gráfica simple con dos botones que permiten moverse entre las estaciones, detectando si hay una estación previa o siguiente disponible. La aplicación fue desarrollada como una práctica sencilla para un examen y entender el funcionamiento de una aplicación de escritorio con conexión a base de datos.
 
 ## Características
 - Interfaz gráfica de usuario (GUI) sencilla, con dos botones para avanzar y retroceder entre estaciones.
